@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Sohamnaik
-- 👀 I’m interested in Artificial Intelligence and Bioinformatics 🤖🦠
-- 🌱 I’m currently learning data science and web development
-- 📫 hello@sohamnaik.com
+# Soham 👨🏻‍💻🧬
+![Solo Leveling Episode 1 Stills](https://github.com/user-attachments/assets/ec8facec-d1b3-41e5-ae84-1518784f0ca6)
 
-<!---
-Sohamnaik/Sohamnaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m rebuilding myself.  
+This profile will soon reflect that journey.  
+Stay tuned.
